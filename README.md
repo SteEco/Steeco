@@ -4,8 +4,6 @@
 
 <img src="https://media.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="21"> &nbsp; Studant: Análise e Desenvolvimento de Sistemas 
 
-<img src="https://media.giphy.com/media/TGKn4dC1ZD6EMwE21o/giphy.gif" width="21"> &nbsp; Looking for a job  
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
