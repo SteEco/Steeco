@@ -2,8 +2,6 @@
 
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="21"> &nbsp; Web developer under construction. 
 
-<img src="https://media.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="21"> &nbsp; Studant: Análise e Desenvolvimento de Sistemas 
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
