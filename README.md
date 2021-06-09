@@ -1,4 +1,4 @@
-## Hi there! I'm Fan 👋 :brazil: :greece:
+## Hi there! I'm Fan - Stephanie Economides 👋 :brazil: :greece:
 
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="21"> &nbsp; Web developer under construction. 
 
