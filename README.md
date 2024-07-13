@@ -5,7 +5,6 @@
 ```css
 #fan-steeco{ 
   position: São Paulo; 
-  height: 170cm; 
   display: girl; 
   direction: cybersecurity;
   background: keep learning 🚀; 
