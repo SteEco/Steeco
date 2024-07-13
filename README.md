@@ -4,15 +4,14 @@
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
 
 ```css
 #fan-steeco{ 
   position: São Paulo; 
   height: 170cm; 
   display: girl; 
-  direction: web developer;
-  background: under construction 🔨; 
+  direction: cybersecurity;
+  background: keep learning :rocket: ; 
   font-family: "brazilian", greek; 
 }
 ```
