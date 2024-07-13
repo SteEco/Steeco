@@ -10,8 +10,8 @@
   position: São Paulo; 
   height: 170cm; 
   display: girl; 
-  direction: cybersecurity;
-  background: keep learning :rocket: ; 
+  direction: cybersecurity ;
+  background: keep learning 🚀 ; 
   font-family: "brazilian", greek; 
 }
 ```
